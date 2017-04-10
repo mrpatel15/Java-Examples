@@ -1,5 +1,5 @@
 /**
- * Created by mrugeshkumar on 4/9/17.
+ * Created by mrugesh patel on 4/9/17.
  */
 public class StringtoArrayList {
     public static void main(String args[]){
