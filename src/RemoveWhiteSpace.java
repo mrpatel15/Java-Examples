@@ -18,9 +18,11 @@ public class RemoveWhiteSpace {
 //        System.out.println(myStringLength);
 
 
-       /* print lower case
-        convert lower case
-        Upper case example*/
+       /*  convert lower case
+           convert Upper case
+           replace function
+           IndexOf function
+        */
 
         String myString = "Hello world AAA bbb" + "  CCCC";
         int myStringLength = myString.length();
