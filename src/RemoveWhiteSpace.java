@@ -3,9 +3,35 @@
  */
 public class RemoveWhiteSpace {
 
-    // Java trim funnction - remove white space
+
     public static void main(String a[]){
-        String MyString = "  mrugesh patel   ";
-        System.out.println(MyString.trim());
+
+        /*  Java trim funnction - remove white space  */
+
+//        String MyString = "  mrugesh patel   ";
+//        System.out.println(MyString.trim());
+
+      /*  check lenth of array  */
+
+//        String myString = "Hello world 111 222!";
+//        int myStringLength = myString.length();
+//        System.out.println(myStringLength);
+
+
+       /* print lower case
+        convert lower case
+        Upper case example*/
+
+        String myString = "Hello world AAA bbb" + "  CCCC";
+        int myStringLength = myString.length();
+//        String myStringCase = myString.toLowerCase();
+
+//        String myStringCase = myString.toUpperCase();
+//        System.out.println(myStringCase);
+
+//        System.out.println(myString.replace('e', 'a'));
+
+        System.out.println(myString.indexOf('o'));
+
     }
 }
