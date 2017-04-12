@@ -14,4 +14,6 @@ Java examples
 11. Odd and Even number in an Array
 12. Duplicate characters in a String
 13. Find smallest and largest number 
+14. Calling method in same class
+
 
