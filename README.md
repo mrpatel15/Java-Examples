@@ -1,4 +1,4 @@
-# java-projects
+# Java-projects
 Java examples 
 
 1. Data types
